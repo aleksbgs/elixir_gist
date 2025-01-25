@@ -16,7 +16,7 @@ module.exports = {
       colors: {
         emDark: {
           dark: "#010101",
-          DEFAULTH : "#3C3B3B",
+          DEFAULTH : "#828282",
           light: "#828282",
         },
         emPurple: {
